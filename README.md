@@ -1,3 +1,3 @@
 # korea
 
-https://doublecase.github.io/korea/
+https://doublecase.github.io/korea/.

@@ -1,3 +1,3 @@
 # korea
 
-korea/css/index.css
+https://doublecase.github.io/korea/
